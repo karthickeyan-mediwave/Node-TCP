@@ -1,0 +1,22 @@
+{
+  "name": "node-tcp-socket",
+  "version": "1.0.0",
+  "description": "TCP server and client using Node.js built-in net module",
+  "main": "src/server.js",
+  "scripts": {
+    "server": "node src/server.js",
+    "client": "node src/client.js"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "keywords": [
+    "tcp",
+    "socket",
+    "nodejs",
+    "net",
+    "networking"
+  ],
+  "author": "",
+  "license": "ISC"
+}
